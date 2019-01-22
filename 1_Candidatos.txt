@@ -1,0 +1,21 @@
+CANDIDATO;NUMERO;PARTIDO
+Walter Alves;1511;PMDB
+Rafael Motta;9090;PROS
+Fabio Faria;5555;PSD
+Dra Zenaide Maia;2222;PR
+Felipe Maia;2512;DEM
+Rogerio Marinho;4545;PSDB
+Betinho Rosado Segundo;1111;PP
+Jacome;3333;PMN
+Abraao Lincoln;1010;PRB
+Sandra Rosado;4040;PSB
+Savio;1212;PDT
+Adriano Gadelha;1355;PT
+Fafa Rosado;1515;PMDB
+Delegado Lucena;7777;SD
+Eraldo;1333;PT
+Carlos Alberto;1311;PT
+Valmir Alves;1313;PT
+Prof. Giovani Jr;5511;PSD
+Paulo Wagner;4333;PV
+Irmao Ricardo Mendonca;5111;PEN

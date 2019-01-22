@@ -1,0 +1,21 @@
+CANDIDATO;PARTIDO;TOTAL VOTOS
+Valmir Alves;PT;67
+Paulo Wagner;PV;62
+Felipe Maia;DEM;62
+Dra Zenaide Maia;PR;60
+Rafael Motta;PROS;59
+Prof. Giovani Jr;PSD;57
+Delegado Lucena;SD;55
+Carlos Alberto;PT;54
+Rogerio Marinho;PSDB;54
+Walter Alves;PMDB;53
+Fafa Rosado;PMDB;51
+Sandra Rosado;PSB;49
+Jacome;PMN;49
+Abraao Lincoln;PRB;48
+Irmao Ricardo Mendonca;PEN;46
+Eraldo;PT;46
+Adriano Gadelha;PT;46
+Betinho Rosado Segundo;PP;46
+Fabio Faria;PSD;44
+Savio;PDT;42

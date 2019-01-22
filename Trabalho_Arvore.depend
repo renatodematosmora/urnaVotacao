@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1541723119 source:c:\users\renat\desktop\trabalho_arvore - copia\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	"ArvoreBinaria.h"
+
+1541723750 c:\users\renat\desktop\trabalho_arvore - copia\arvorebinaria.h
+
+1541724482 source:c:\users\renat\desktop\trabalho_arvore\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	"ArvoreBinaria.h"
+
+1541723750 c:\users\renat\desktop\trabalho_arvore\arvorebinaria.h
+
